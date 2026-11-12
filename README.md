@@ -104,13 +104,13 @@ This project is developed as an academic project to improve medication managemen
 ## Project Gallery
 
 ### ESP32 Hardware Connections
-![Hardware](Images/hardware-connections.jpg)
+![Hardware](Images/hardware-connections.jpg.jpeg)
 
 ### Circuit Diagram
-![Circuit](Images/circuit-diagram.jpg)
+![Circuit](Images/circuit-diagram.jpg.jpeg)
 
 ### LCD Display Output
-![LCD](Images/lcd-display.jpg)
+![LCD](Images/lcd-display.jpg.jpeg)
 
 ### Medication Dispensing Mechanism
-![Dispenser](Images/dispensing-mechanism.jpg)
+![Dispenser](Images/dispensing-mechanism.jpg.jpeg)
