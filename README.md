@@ -98,3 +98,19 @@ Purpose: Smart medication management and patient safety.
 ---
 
 This project is developed as an academic project to improve medication management through IoT and automation.
+
+
+
+## Project Gallery
+
+### ESP32 Hardware Connections
+![Hardware](Images/hardware-connections.jpg)
+
+### Circuit Diagram
+![Circuit](Images/circuit-diagram.jpg)
+
+### LCD Display Output
+![LCD](Images/lcd-display.jpg)
+
+### Medication Dispensing Mechanism
+![Dispenser](Images/dispensing-mechanism.jpg)
